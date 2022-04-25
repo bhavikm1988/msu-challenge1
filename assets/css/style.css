@@ -52,11 +52,13 @@ p {
 .hero {
     height: 800px;
     width: 100%;
-    padding: 20%;
-    margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.hero-container {
+padding: 10px 0px 20px;
 }
 
 .float-left {
